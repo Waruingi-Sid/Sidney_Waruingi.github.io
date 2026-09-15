@@ -1,6 +1,6 @@
 # Sidney Waruingi | Cloud Network Security Engineer
 📍 Nairobi, Kenya (Available for Global Remote & Contract Roles)
-📧 sidwaruingi@gmail.com | 🔗 [LinkedIn](https://linkedin.com)
+📧 sidwaruingi@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sidney-waruingi-)
 
 ## 🚀 About Me
 Senior Infrastructure Specialist transitioning 9+ years of enterprise IT experience into cloud-native network automation, zero-trust architectures, and DevSecOps engineering.
